@@ -2210,8 +2210,8 @@ body {
   }
 }
 .cid-qEn2wRp2rm {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 135px;
+  padding-bottom: 135px;
   background-color: #fff6f6;
 }
 .cid-qEn2wRp2rm .mbr-shop {
@@ -2899,7 +2899,7 @@ body {
 }
 .cid-qEn2wRp2rm .mbr-gallery-item:hover .style_overlay {
   background: #ffa0a4;
-  opacity: 0.7;
+  opacity: 0.3;
   transition: all .5s;
 }
 .cid-qEn2wRp2rm .mbr-gallery-item:hover .sidebar_wraper {
@@ -2926,8 +2926,5 @@ body {
     position: absolute !important;
     top: calc(50% - 300px) !important;
     left: calc(50% - 500px) !important;
-  }
-  .cid-qEn2wRp2rm .range-controls {
-    display: block !important;
   }
 }
